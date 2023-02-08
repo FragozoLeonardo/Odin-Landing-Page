@@ -1,0 +1,1 @@
+This project is the landing page from the flex box section of odin project foundations.

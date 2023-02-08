@@ -1,0 +1,28 @@
+body{
+  display: flex;
+  flex-direction: column;
+}
+
+.top-navy {
+  background-color: #1F2937;
+  height: 300px;
+}
+
+.middle-white {
+  background-color: #ffffff;
+  height: 300px;
+}
+
+.quote-light-blue {
+  background-color: #E5E7EB;
+  height: 300px;
+}
+
+.action-white{
+  background-color: #ffffff;
+  height: 300px;
+}
+.footer-navy{
+  background-color: #1F2937;
+  height: 150px;
+}
