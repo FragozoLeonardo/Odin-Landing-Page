@@ -5,13 +5,63 @@ body{
 
 .top-navy {
   background-color: #1F2937;
-  height: 300px;
+  height: 400px;
+}
+
+.top-nav-bar{
+  display:flex;
+}
+
+.top-nav-logo{
+  font-size: 24px;
+  color: #F9FAF8;
+  font-family: Hero;
+  margin-top: 20px;
+  margin-left: 100px;
+}
+
+.top-nav-links{
+  font-size: 18px;
+  color:#E5E7EB;
+  margin-top: 20px;
+  margin-left: 1100px;
+}
+
+.this-web-site-title{
+  margin-top: 50px;
+  margin-left: 100px;
+  font-size: 48px;
+  color: #F9FAF8;
+  font-family: Hero;
+  font-weight: 900;
+}
+
+.this-web-site-desc{
+  margin-top: 10px;
+  margin-left: 100px;
+  font-size: 18px;
+  color: #E5E7EB;
+  font-family: Hero;
+}
+
+button{
+  background-color:#3882F6;
+  margin-top: 10px;
+  margin-left: 100px;
+  padding-top: 5px;
+  padding-left:25px;
+  padding-right:20px;
+  padding-bottom: 5px;
+  color:#F9FAF8;
+  font-size: 16px;
+  border-radius: 8px
 }
 
 .middle-white {
   background-color: #ffffff;
   height: 300px;
 }
+
 
 .quote-light-blue {
   background-color: #E5E7EB;
@@ -25,4 +75,9 @@ body{
 .footer-navy{
   background-color: #1F2937;
   height: 150px;
+  color:#F9FAF8;
+  display:flex;
+  align-items: center;
+  justify-content: center;
 }
+
