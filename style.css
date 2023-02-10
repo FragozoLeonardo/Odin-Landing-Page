@@ -57,6 +57,19 @@ button{
   border-radius: 8px
 }
 
+.image-placeholder{
+  background-color: #71716F;
+  width: 650px;
+  height: 200px;
+  margin-top: -150px;
+  margin-left: 950px;
+  color:#F9FAF8;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
 .middle-white {
   background-color: #ffffff;
   height: 300px;
