@@ -87,12 +87,9 @@ button{
   justify-content: center;
   font-size: 36px;
   color: #1F2937;
-  margin-up: 150px;
 }
 
 .quote-author{
-  background-color: #E5E7EB;
-  display:flex;
   font-size: 36px;
   margin-left: 850px;
   font-weight: 900;
@@ -102,6 +99,33 @@ button{
   background-color: #ffffff;
   height: 300px;
 }
+
+.action-blue{
+background-color: #3882F6;
+border-radius: 10px;
+width: 950px;
+height: 150px;
+margin-top: 50px;
+margin-left: 350px;
+font-size: 18px;
+color:#F9FAF8;
+}
+
+.blue-title{
+  padding-top: 50px;
+  margin-left: 150px;
+  margin-bottom: 5px;
+  font-size: 18px;
+  font-weight: 900;
+  color: #F9FAF8;
+}
+
+.blue-desc{
+  margin-left: 150px;
+  font-size: 18px;
+  color: #F9FAF8;
+}
+
 .footer-navy{
   background-color: #1F2937;
   height: 150px;
@@ -110,4 +134,3 @@ button{
   align-items: center;
   justify-content: center;
 }
-
