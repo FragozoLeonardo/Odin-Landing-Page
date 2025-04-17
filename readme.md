@@ -1,33 +1,25 @@
 [![Screenshot-from-2023-04-13-10-39-59.png](https://i.postimg.cc/zvt1p08W/Screenshot-from-2023-04-13-10-39-59.png)](https://postimg.cc/2LZJSdq8)
 
-## 🇧🇷 Landing Page com Flexbox 🇧🇷
-
-[Este projeto](https://www.theodinproject.com/lessons/foundations-landing-page) é a Landing Page da seção Flexbox do curso Foundations do The Odin Project.
+## 🇧🇷 Landing Page com Flexbox 🧩
 
 ### Descrição
 
-Este projeto demonstra o uso de Flexbox para criar um layout responsivo e moderno para uma Landing Page. O objetivo é praticar e aplicar os conceitos de Flexbox aprendidos no curso.
+Este projeto é o [desafio da seção Flexbox do The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page), e demonstra o uso do Flexbox para criar um layout moderno e responsivo em uma landing page. O objetivo é praticar e aplicar os conceitos aprendidos no curso.
 
 ### Como Usar
 
-1.  Clone este repositório para sua máquina local usando o seguinte comando:
+```bash
+git clone https://github.com/FragozoLeonardo/Odin-Landing-Page.git
+cd Odin-Landing-Page
+```
 
-    ```bash
-    git clone https://github.com/FragozoLeonardo/Odin-Landing-Page.git
-    ```
-
-2.  Navegue até o diretório do projeto:
-
-    ```bash
-    cd Odin-Landing-Page
-    ```
-
-3.  Abra o arquivo `index.html` em seu navegador web.
+Depois, abra o arquivo `index.html` com seu navegador preferido.
 
 ### Conteúdo
 
-* Layout responsivo usando Flexbox.
-* Estrutura básica de HTML e estilos CSS.
+- Layout responsivo usando Flexbox  
+- Estrutura semântica com HTML5  
+- Estilização moderna com CSS3
 
 ### Contribuição
 
@@ -35,34 +27,26 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests c
 
 ---
 
-## 🇺🇸 Flexbox Landing Page 🇺🇸
-
-[This project](https://www.theodinproject.com/lessons/foundations-landing-page) is the landing page from the Flexbox section of The Odin Project Foundations course.
+## 🇺🇸 Flexbox Landing Page 🧩
 
 ### Description
 
-This project demonstrates the use of Flexbox to create a responsive and modern layout for a landing page. The goal is to practice and apply the Flexbox concepts learned in the course.
+This project is the [Flexbox section challenge from The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page). It demonstrates how to use Flexbox to build a modern and responsive layout for a landing page. The goal is to practice and apply Flexbox concepts learned in the course.
 
 ### How to Use
 
-1.  Clone this repository to your local machine using the following command:
+```bash
+git clone https://github.com/FragozoLeonardo/Odin-Landing-Page.git
+cd Odin-Landing-Page
+```
 
-    ```bash
-    git clone https://github.com/FragozoLeonardo/Odin-Landing-Page.git
-    ```
-
-2.  Navigate to the project directory:
-
-    ```bash
-    cd Odin-Landing-Page
-    ```
-
-3.  Open the `index.html` file in your web browser.
+Then open the `index.html` file in your browser.
 
 ### Content
 
-* Responsive layout using Flexbox.
-* Basic HTML structure and CSS styles.
+- Responsive layout using Flexbox  
+- Semantic structure with HTML5  
+- Modern styling with CSS3
 
 ### Contribution
 
@@ -70,33 +54,29 @@ Contributions are welcome! Feel free to submit pull requests with improvements o
 
 ---
 
-[このプロジェクト](https://www.theodinproject.com/lessons/foundations-landing-page)このプロジェクトは、The Odin Project FoundationsコースのFlexboxセクションのランディングページです。
+## 🇯🇵 フレックスボックス・ランディングページ 🧩
 
 ### 説明
 
-このプロジェクトは、ランディングページのレスポンシブでモダンなレイアウトを作成するためにFlexboxの使用法を示します。目標は、コースで学んだFlexboxの概念を練習し、適用することです。
+このプロジェクトは、[The Odin ProjectのFlexboxセクションの課題](https://www.theodinproject.com/lessons/foundations-landing-page)です。Flexboxを活用して、モダンでレスポンシブなランディングページを作成する方法を示しています。目的は、コースで学んだFlexboxの概念を練習し、応用することです。
 
 ### 使用方法
 
-1.  次のコマンドを使用して、このリポジトリをローカルマシンにクローンします。
+```bash
+git clone https://github.com/FragozoLeonardo/Odin-Landing-Page.git
+cd Odin-Landing-Page
+```
 
-    ```bash
-    git clone https://github.com/FragozoLeonardo/Odin-Landing-Page.git
-    ```
-
-2.  プロジェクトディレクトリに移動します。
-
-    ```bash
-    cd Odin-Landing-Page
-    ```
-
-3.  ウェブブラウザで`index.html`ファイルを開きます。
+その後、`index.html`をブラウザで開いてください。
 
 ### 内容
 
-* Flexboxを使用したレスポンシブなレイアウト。
-* 基本的なHTML構造とCSSスタイル。
+- Flexboxを使用したレスポンシブなレイアウト  
+- HTML5によるセマンティックな構造  
+- CSS3を使ったモダンなデザイン
 
 ### 貢献
 
-貢献を歓迎します！改善や新しい機能を含むプルリクエストを自由に送信してください。
+改善や新機能の追加など、プルリクエストを歓迎します！
+
+---
