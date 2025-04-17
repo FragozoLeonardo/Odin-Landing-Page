@@ -1,6 +1,6 @@
 [![Screenshot-from-2023-04-13-10-39-59.png](https://i.postimg.cc/zvt1p08W/Screenshot-from-2023-04-13-10-39-59.png)](https://postimg.cc/2LZJSdq8)
 
-## 🇧🇷 Landing Page com Flexbox 🧩
+## 🇧🇷 Odin Landing Page 🧩
 
 ### Descrição
 
@@ -27,7 +27,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests c
 
 ---
 
-## 🇺🇸 Flexbox Landing Page 🧩
+## 🇺🇸 Odin Landing Page 🧩
 
 ### Description
 
@@ -54,7 +54,7 @@ Contributions are welcome! Feel free to submit pull requests with improvements o
 
 ---
 
-## 🇯🇵 フレックスボックス・ランディングページ 🧩
+## 🇯🇵 Odin Landing Page 🧩
 
 ### 説明
 
